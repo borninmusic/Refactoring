@@ -1,3 +1,5 @@
+using System;
+
 namespace Refactoring;
 
 public class ExtractMethod
