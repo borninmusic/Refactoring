@@ -1,0 +1,8 @@
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.csproj.AssemblyReference.cache
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.AssemblyInfoInputs.cache
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.AssemblyInfo.cs
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.csproj.CoreCompileInputs.cache
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.dll
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/refint/Refactoring.dll
+/Volumes/Studies/Code/C#/Refactoring/Refactoring/obj/Debug/net7.0/Refactoring.pdb
