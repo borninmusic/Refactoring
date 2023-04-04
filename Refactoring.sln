@@ -2,6 +2,14 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposingMethods", "ComposingMethods\ComposingMethods.csproj", "{C041D1A4-81F3-45ED-9A9D-E49A4ADF1EB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyingConditionalExpressions", "SimplifyingConditionalExpressions\SimplifyingConditionalExpressions.csproj", "{E6A77E45-A791-4897-92C7-606438BA7536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizingData", "OrganizingData\OrganizingData.csproj", "{4420ED0B-9572-4A20-BEB5-4CFEB8064D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyingMethodCalls", "SimplifyingMethodCalls\SimplifyingMethodCalls.csproj", "{974E26B4-DF9C-4E32-947C-0EE51B3EB348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealingWithGeneralization", "DealingWithGeneralization\DealingWithGeneralization.csproj", "{C84E741C-0BA2-4294-B31D-DB1BBFDBE549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +20,21 @@ Global
 		{C041D1A4-81F3-45ED-9A9D-E49A4ADF1EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C041D1A4-81F3-45ED-9A9D-E49A4ADF1EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C041D1A4-81F3-45ED-9A9D-E49A4ADF1EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A77E45-A791-4897-92C7-606438BA7536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A77E45-A791-4897-92C7-606438BA7536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A77E45-A791-4897-92C7-606438BA7536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A77E45-A791-4897-92C7-606438BA7536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4420ED0B-9572-4A20-BEB5-4CFEB8064D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4420ED0B-9572-4A20-BEB5-4CFEB8064D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4420ED0B-9572-4A20-BEB5-4CFEB8064D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4420ED0B-9572-4A20-BEB5-4CFEB8064D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974E26B4-DF9C-4E32-947C-0EE51B3EB348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974E26B4-DF9C-4E32-947C-0EE51B3EB348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974E26B4-DF9C-4E32-947C-0EE51B3EB348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974E26B4-DF9C-4E32-947C-0EE51B3EB348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84E741C-0BA2-4294-B31D-DB1BBFDBE549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84E741C-0BA2-4294-B31D-DB1BBFDBE549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84E741C-0BA2-4294-B31D-DB1BBFDBE549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84E741C-0BA2-4294-B31D-DB1BBFDBE549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
